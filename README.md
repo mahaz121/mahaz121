@@ -1,15 +1,68 @@
-# 💫 About Me:
-System Engineer | Linux Infrastructure & ERP Operations Experienced System Engineer with over 5 years of experience managing Linux-based production environments and enterprise IT infrastructure. Currently focusing on cloud deployments, Odoo ERP management, and infrastructure security.🛠 Technical StackOperating Systems: Ubuntu Server, RHEL, CentOS, Windows Server ERP & Databases: Odoo ERP (Implementation & Administration), PostgreSQL Cloud & DevOps: AWS, DigitalOcean, Docker, Kubernetes Fundamentals Networking: NGINX, VPN (Configuration & Troubleshooting), VLAN, Firewalls Scripting: Bash Scripting, Python 🚀 Projects & FocusITdock: My centralized repository for infrastructure documentation, scripts, and technical resources.Odoo Operations: Managing large-scale ERP environments and automated backup strategies.Security & Compliance: Implementing server hardening aligned with ARAMCO standards.🎓 Education & CertificationsB.Sc. in Computer Science & Engineering - Royal University of Dhaka RHCE (Red Hat Certified Engineer) Odoo Academy Certified Cyber Security Analyst - Cisco Networking Academy 📫 Connect with me
+# 🚀 Hi I am Mahaz
+### **System Engineer | Linux Infrastructure Architect | ERP Operations**
+*Bridging the gap between robust Linux infrastructure and seamless ERP operations.*
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahaz_abdullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahaz-abdullah/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdullah_mahaz) 
+### 💫 About Me
+Experienced **System Engineer** with over 5 years of mastery in managing production environments and enterprise IT infrastructure. I specialize in building resilient systems that don't just work—they scale.
 
-# 💻 Tech Stack:
-![Odoo] (https://static.cdnlogo.com/logos/o/75/odoo.svg)) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahaz121&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahaz121&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaz121&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* 🌐 **Personal Website:** [mahaz.uk](https://mahaz.uk)
+* ✍️ **Author of ITdock:** A centralized repository for infrastructure documentation, automation scripts, and technical resources.
+* 🏗 **Current Focus:** Cloud deployments, Odoo ERP optimization, and infrastructure security.
+* 🛡 **Security Standards:** Implementing server hardening aligned with ARAMCO standards.
+* ⚡ **Philosophy:** Automate the boring stuff; harden the critical stuff.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠 Technical Ecosystem
+
+| **Core Infrastructure** | **DevOps & Cloud** | **Development** |
+| :--- | :--- | :--- |
+| 🐧 **OS:** Ubuntu, RHEL, CentOS | ☁️ **Cloud:** AWS, DigitalOcean, Azure | 🐍 **Backend:** Python, FastAPI, PHP |
+| 🛡 **Security:** ARAMCO Hardening | 🐳 **Container:** Docker, K8s Fundamentals | 📜 **Scripting:** Bash, PowerShell |
+| ⚙️ **ERP:** Odoo Implementation | 🔄 **CI/CD:** GitLab CI | 🌐 **Web:** Next.js, React, JS |
+| 🗄 **DB:** PostgreSQL, MongoDB | 🛰 **Network:** NGINX, VPN, VLAN | 🎨 **Frontend:** HTML5, CSS |
+
+---
+
+### 🎓 Education & Certifications
+* **B.Sc. in Computer Science & Engineering** - Royal University of Dhaka
+* **RHCE** (Red Hat Certified Engineer)
+* **Odoo Academy Certified**
+* **Cyber Security Analyst** - Cisco Networking Academy
+
+---
+
+### 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahaz121&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Mahaz GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mahaz121&theme=tokyonight&hide_border=true" alt="Mahaz Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaz121&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Connect & Collaborate
+<div align="left">
+  <a href="https://mahaz.uk" target="_blank">
+    <img src="https://img.shields.io/badge/Website-mahaz.uk-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://linkedin.com/in/mahaz-abdullah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/abdullah_mahaz" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/mahaz_abdullah" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mahaz121&icon=5&color=4" alt="Visitor Count" />
+</p>
