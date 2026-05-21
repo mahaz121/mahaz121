@@ -1,51 +1,57 @@
-# 🚀 Hi I am Mahaz
-### **System Engineer | Linux Infrastructure Architect | ERP Operations**
-*Bridging the gap between robust Linux infrastructure and seamless ERP operations.*
+# 🚀 Hi, I'm Riaz
+### **Cloud & Infrastructure Engineer | Linux Systems | ERP Operations**
+*Designing secure, scalable cloud environments — and automating everything in between.*
 
 ---
 
 ### 💫 About Me
-Experienced **System Engineer** with over 5 years of mastery in managing production environments and enterprise IT infrastructure. I specialize in building resilient systems that don't just work—they scale.
 
-* 🌐 **Personal Website:** [mahaz.uk](https://mahaz.uk)
-* ✍️ **Author of ITdock:** A centralized repository for infrastructure documentation, automation scripts, and technical resources.
-* 🏗 **Current Focus:** Cloud deployments, Odoo ERP optimization, and infrastructure security.
-* 🛡 **Security Standards:** Implementing server hardening aligned with ARAMCO standards.
-* ⚡ **Philosophy:** Automate the boring stuff; harden the critical stuff.
+Results-driven **Cloud & Infrastructure Engineer** with 5+ years of experience designing, deploying, and operating Linux-based cloud environments. I specialize in building reliable, hardened production systems across AWS and DigitalOcean — from bare metal provisioning to full CI/CD pipelines.
+
+- 🌐 **Personal Website:** [mahaz.uk](https://mahaz.uk)
+- ✍️ **Author of ITdock:** A centralized hub for infrastructure documentation, automation scripts, and technical resources.
+- 🏗 **Current Focus:** Cloud deployments, Odoo ERP optimization, and infrastructure security.
+- 🛡 **Security Standards:** Server hardening aligned with ARAMCO compliance baselines.
+- ⚡ **Philosophy:** Automate the boring stuff; harden the critical stuff.
 
 ---
 
 ### 🛠 Technical Ecosystem
 
-| **Core Infrastructure** | **DevOps & Cloud** | **Development** |
+| **Cloud & Infrastructure** | **DevOps & Automation** | **Networking & Security** |
 | :--- | :--- | :--- |
-| 🐧 **OS:** Ubuntu, RHEL, CentOS | ☁️ **Cloud:** AWS, DigitalOcean, Azure | 🐍 **Backend:** Python, FastAPI, PHP |
-| 🛡 **Security:** ARAMCO Hardening | 🐳 **Container:** Docker, K8s Fundamentals | 📜 **Scripting:** Bash, PowerShell |
-| ⚙️ **ERP:** Odoo Implementation | 🔄 **CI/CD:** GitLab CI | 🌐 **Web:** Next.js, React, JS |
-| 🗄 **DB:** PostgreSQL, MongoDB | 🛰 **Network:** NGINX, VPN, VLAN | 🎨 **Frontend:** HTML5, CSS |
+| ☁️ **AWS:** EC2, S3, VPC, IAM, Route 53 | 🐳 **Containers:** Docker | 🔒 **Hardening:** ARAMCO Standards |
+| 🌊 **DigitalOcean** Droplets & Spaces | 🔄 **CI/CD:** GitLab Self-hosted | 🌐 **Net:** VLANs, VPN, NAT, DHCP |
+| 🐧 **OS:** Ubuntu Server, RHEL, CentOS | 📜 **Scripting:** Bash, Python | 🛡 **AD:** GPO, Access Control, WSUS |
+| 💻 **Virt:** VMware, Hyper-V | ⚙️ **IaC:** Terraform (Fundamentals) | 🌍 **CDN/DNS:** Cloudflare, Route 53 |
+| 🗄 **DB:** PostgreSQL | 🔁 **Web Server:** NGINX | 📞 **VoIP/SIP** Configuration |
 
 ---
 
-### 🎓 Education & Certifications
-* **B.Sc. in Computer Science & Engineering** - Royal University of Dhaka
-* **RHCE** (Red Hat Certified Engineer)
-* **Odoo Academy Certified**
-* **Cyber Security Analyst** - Cisco Networking Academy
+### ⚙️ What I Build & Operate
+
+```
+Cloud Environments      →  AWS EC2 · VPC · Security Groups · S3 Backup Pipelines
+Application Deployment  →  Odoo ERP · Docker Containers · Web & E-Commerce Platforms
+Infrastructure Automation →  Bash & Python scripts · GitLab CI/CD · Self-hosted tooling
+Network Engineering     →  VLANs · VPN Tunnels · Firewall Rules · Static Routing
+Security & Compliance   →  Server Hardening · ARAMCO Standards · Risk Assessments
+```
 
 ---
 
-### 📊 Performance Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahaz121&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Mahaz GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mahaz121&theme=tokyonight&hide_border=true" alt="Mahaz Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahaz121&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+### 🎓 Certifications
+
+- 🏅 **RHCE** — Red Hat Certified Engineer
+- ☸️ **Kubernetes Deployment** — Udemy
+- 🖥️ **Windows Server 2019 Administration** — Udemy
+- ⚙️ **Odoo ERP System Administration** — Odoo Academy
+- 🔐 **Cyber Security Analyst** — Cisco Networking Academy
 
 ---
 
 ### 📫 Connect & Collaborate
+
 <div align="left">
   <a href="https://mahaz.uk" target="_blank">
     <img src="https://img.shields.io/badge/Website-mahaz.uk-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
@@ -60,9 +66,3 @@ Experienced **System Engineer** with over 5 years of mastery in managing product
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mahaz121&icon=5&color=4" alt="Visitor Count" />
-</p>
