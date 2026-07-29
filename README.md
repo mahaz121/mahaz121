@@ -1,68 +1,107 @@
-# 🚀 Hi, I'm Riaz
-### **Cloud & Infrastructure Engineer | Linux Systems | ERP Operations**
-*Designing secure, scalable cloud environments — and automating everything in between.*
+<p align="center">
+  <img src="./header.svg" width="800">
+</p>
+
+<p align="center">
+  <b>CLOUD INFRASTRUCTURE ENGINEER | DEVOPS ENGINEER | ERP SPECIALIST</b><br>
+  <i>Automating infrastructure with purpose. Cloud-native engineering, DevOps orchestration, and enterprise ERP operations — hardened, monitored, and continuously delivered.</i>
+</p>
 
 ---
 
-### 💫 About Me
+### ARCHITECTURAL THESIS
 
-Results-driven **Cloud & Infrastructure Engineer** with 5+ years of experience designing, deploying, and operating Linux-based cloud environments. I specialize in building reliable, hardened production systems across AWS and DigitalOcean — from bare metal provisioning to full CI/CD pipelines.
+Engineering at the intersection of **Cloud Infrastructure**, **DevOps Automation**, and **Enterprise Systems**. Bridging the gap between infrastructure-as-code and production reliability through systematic observability, security-hardened deployments, and compliance-driven design.
 
-- 🌐 **Personal Website:** [mahaz.uk](https://mahaz.uk)
-- ✍️ **Author of ITdock:** A centralized hub for infrastructure documentation, automation scripts, and technical resources.
-- 🏗 **Current Focus:** Cloud deployments, Odoo ERP optimization, and infrastructure security.
-- 🛡 **Security Standards:** Server hardening aligned with ARAMCO compliance baselines.
-- ⚡ **Philosophy:** Automate the boring stuff; harden the critical stuff.
+The second half of the problem: infrastructure that scales still needs to stay secure. Immutable deployment patterns, policy engines as the enforcement point rather than manual gates, and self-healing systems that stay bounded by arithmetic instead of good intentions.
 
 ---
 
-### 🛠 Technical Ecosystem
+### CORE ENGINEERING STACK
 
-| **Cloud & Infrastructure** | **DevOps & Automation** | **Networking & Security** |
-| :--- | :--- | :--- |
-| ☁️ **AWS:** EC2, S3, VPC, IAM, Route 53 | 🐳 **Containers:** Docker | 🔒 **Hardening:** ARAMCO Standards |
-| 🌊 **DigitalOcean** Droplets & Spaces | 🔄 **CI/CD:** GitLab Self-hosted | 🌐 **Net:** VLANs, VPN, NAT, DHCP |
-| 🐧 **OS:** Ubuntu Server, RHEL, CentOS | 📜 **Scripting:** Bash, Python | 🛡 **AD:** GPO, Access Control, WSUS |
-| 💻 **Virt:** VMware, Hyper-V | ⚙️ **IaC:** Terraform (Fundamentals) | 🌍 **CDN/DNS:** Cloudflare, Route 53 |
-| 🗄 **DB:** PostgreSQL | 🔁 **Web Server:** NGINX | 📞 **VoIP/SIP** Configuration |
-
----
-
-### ⚙️ What I Build & Operate
-
-```
-Cloud Environments      →  AWS EC2 · VPC · Security Groups · S3 Backup Pipelines
-Application Deployment  →  Odoo ERP · Docker Containers · Web & E-Commerce Platforms
-Infrastructure Automation →  Bash & Python scripts · GitLab CI/CD · Self-hosted tooling
-Network Engineering     →  VLANs · VPN Tunnels · Firewall Rules · Static Routing
-Security & Compliance   →  Server Hardening · ARAMCO Standards · Risk Assessments
-```
+| **Category** | **Technologies** |
+|:---|:---|
+| **Cloud & Compute** | AWS (EC2, S3, VPC, IAM, Route 53) • DigitalOcean • Ubuntu • RHEL • CentOS |
+| **Container Orchestration** | Docker • Docker Compose • Kubernetes • Helm • Argo CD • Harbor Registry |
+| **Infrastructure as Code** | Terraform • Ansible |
+| **CI/CD & Automation** | GitHub Actions • GitLab (Self-hosted) • Bash • Python |
+| **Security & Secrets** | HashiCorp Vault • Trivy • SonarQube • Dependabot • Renovate • Sentry • ARAMCO Hardening Standards |
+| **Observability** | Grafana • Prometheus • Loki • Alertmanager • cAdvisor • Node Exporter • Uptime Kuma • Grafana Alloy • OpenTelemetry |
+| **Networking & Proxy** | Traefik • NGINX • VLANs • VPN • NAT • DHCP • Cloudflare • Route 53 |
+| **Databases** | PostgreSQL • S3 (Wasabi / AWS) |
+| **Development** | Python • Odoo 16 • JavaScript • XML • SCSS • OWL • Selenium |
+| **Virtualization** | VMware • Hyper-V |
+| **Identity & Access** | Active Directory • GPO • WSUS |
 
 ---
 
-### 🎓 Certifications
+### IMPLEMENTATIONS
 
-- 🏅 **RHCE** — Red Hat Certified Engineer
-- ☸️ **Kubernetes Deployment** — Udemy
-- 🖥️ **Windows Server 2019 Administration** — Udemy
-- ⚙️ **Odoo ERP System Administration** — Odoo Academy
-- 🔐 **Cyber Security Analyst** — Cisco Networking Academy
+<details>
+<summary><b>01 // CLOUD INFRASTRUCTURE</b></summary>
+<br>
+
+- **AWS EC2 & VPC:** Designed and deployed scalable cloud environments with custom VPCs, security groups, and IAM policies.
+- **DigitalOcean Droplets:** Provisioned and managed production workloads with Spaces for object storage.
+- **Disaster Recovery:** Automated S3 backup pipelines and cross-region replication strategies.
+- **Server Hardening:** Implemented ARAMCO compliance baselines across Linux servers.
+</details>
+
+<details>
+<summary><b>02 // DEVOPS & AUTOMATION</b></summary>
+<br>
+
+- **GitLab Self-hosted:** Set up and maintained CI/CD pipelines with automated testing and deployment.
+- **GitHub Actions:** Built automation workflows for container builds, security scanning, and dependency updates.
+- **Kubernetes:** Deployed and managed clusters with Helm charts and Argo CD GitOps.
+- **Infrastructure as Code:** Wrote Terraform modules and Ansible playbooks for repeatable infrastructure.
+</details>
+
+<details>
+<summary><b>03 // ERP & APPLICATIONS</b></summary>
+<br>
+
+- **Odoo 16:** Deployed and optimized Odoo ERP with PostgreSQL, custom modules, and Docker Compose.
+- **E-Commerce Platforms:** Managed web applications with NGINX, SSL termination, and Cloudflare CDN.
+- **VoIP/SIP:** Configured and maintained telephony systems with network integration.
+</details>
+
+<details>
+<summary><b>04 // MONITORING & OBSERVABILITY</b></summary>
+<br>
+
+- **Grafana Stack:** Deployed Prometheus, Loki, and Alertmanager for metrics, logs, and alerting.
+- **Node & Container Monitoring:** Set up cAdvisor, Node Exporter, and Uptime Kuma for system health.
+- **OpenTelemetry:** Implemented distributed tracing for application performance monitoring.
+</details>
 
 ---
 
-### 📫 Connect & Collaborate
+### CERTIFICATIONS
 
-<div align="left">
-  <a href="https://mahaz.uk" target="_blank">
-    <img src="https://img.shields.io/badge/Website-mahaz.uk-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://linkedin.com/in/mahaz-abdullah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/abdullah_mahaz" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/mahaz_abdullah" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+- **RHCE** — Red Hat Certified Engineer
+- **Kubernetes Deployment** — Udemy
+- **Windows Server 2019 Administration** — Udemy
+- **Odoo ERP System Administration** — Odoo Academy
+- **Cyber Security Analyst** — Cisco Networking Academy
+
+---
+
+### CONNECTIVITY
+
+<p align="center">
+  <code><a href="https://mahaz.uk">WEBSITE</a></code> &nbsp;&nbsp;&nbsp;
+  <code><a href="https://linkedin.com/in/mahaz-abdullah/">LINKEDIN</a></code> &nbsp;&nbsp;&nbsp;
+  <code><a href="https://x.com/abdullah_mahaz">X</a></code> &nbsp;&nbsp;&nbsp;
+  <code><a href="https://instagram.com/mahaz_abdullah">INSTAGRAM</a></code>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./footer.svg" width="800">
+</p>
+
+<p align="center">
+  <i>"Cloud-native. Security-hardened. Zero-drama deployments."</i>
+</p>
