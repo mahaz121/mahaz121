@@ -29,7 +29,7 @@ The second half of the problem: infrastructure that scales still needs to stay s
 | **Observability** | Grafana • Prometheus • Loki • Alertmanager • cAdvisor • Node Exporter • Uptime Kuma • Grafana Alloy • OpenTelemetry |
 | **Networking & Proxy** | Traefik • NGINX • VLANs • VPN • NAT • DHCP • Cloudflare • Route 53 |
 | **Databases** | PostgreSQL • S3 (Wasabi / AWS) |
-| **Development** | Python • Odoo 16 • JavaScript • XML • SCSS • OWL • Selenium |
+| **Development** | Python • Odoo • JavaScript • SCSS • OWL |
 | **Virtualization** | VMware • Hyper-V |
 | **Identity & Access** | Active Directory • GPO • WSUS |
 
